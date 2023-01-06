@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center" width="200" >
 
 ![Computer Screen gif](https://data.whicdn.com/images/325875578/original.gif)
 </div>
