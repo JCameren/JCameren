@@ -40,3 +40,15 @@ I am excited to continue exploring and creating, using my skills to make a diffe
 [![My Skills](https://skillicons.dev/icons?i=git,github,netlify,vercel,heroku,vscode,codepen)](https://skillicons.dev)
 
 </div>
+
+<br/>
+<div align="center">
+
+### Connect With Me 🧍
+</div>
+</br>
+<div align="center">
+
+
+[![linkedin logo link](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/camerenj)
+</div>
