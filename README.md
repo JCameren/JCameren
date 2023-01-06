@@ -52,3 +52,8 @@ I am excited to continue exploring and creating, using my skills to make a diffe
 
 [![linkedin logo link](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/camerenj)
 </div>
+</br>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=JCameren&color=81cdc6)
+</div>
