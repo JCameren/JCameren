@@ -12,7 +12,9 @@
 </div>
 </br>
 <div align="center">
-I'm a web developer with a love for all things digital, I am constantly drawn to new and exciting ways to connect and create.
+I'm a web developer with a love for all things digital, I am constantly drawn to new and exciting ways to connect and create.<br/>
+I am excited to continue exploring and creating, using my skills to make a difference in the digital world.<br/>
+✨ Outside of this, I'm an avid gamer and music connoisseur.
 </div>
 <br/>
 
